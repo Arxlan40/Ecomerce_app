@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "740933931843",
+    "firebase_url": "https://ecomerce-eb228.firebaseio.com",
+    "project_id": "ecomerce-eb228",
+    "storage_bucket": "ecomerce-eb228.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740933931843:android:4fd11d0c650c913c9595f6",
+        "android_client_info": {
+          "package_name": "khan.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740933931843-av41m1jdpqp5ckfgk5fd88hoj93mtd69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "khan.shopping",
+            "certificate_hash": "ccff15449731609cdcb13cec4082f5b0687667d4"
+          }
+        },
+        {
+          "client_id": "740933931843-tkoe7bfkpnqmhm6u33l8knck53ajjlnv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCVh3rPfRUj419bl7jOSI98RmYAamCDwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740933931843-tkoe7bfkpnqmhm6u33l8knck53ajjlnv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
